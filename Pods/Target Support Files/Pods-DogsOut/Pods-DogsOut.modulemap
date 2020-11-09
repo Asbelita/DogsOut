@@ -1,0 +1,6 @@
+framework module Pods_DogsOut {
+  umbrella header "Pods-DogsOut-umbrella.h"
+
+  export *
+  module * { export * }
+}
