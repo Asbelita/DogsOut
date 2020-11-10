@@ -6,6 +6,7 @@ target 'DogsOut' do
   use_frameworks!
   
   pod 'Alamofire', '~> 5.2'
+  pod 'SwiftLint'
   
   target 'DogsOutTests' do
     inherit! :search_paths
